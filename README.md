@@ -5,7 +5,7 @@ Purpose: Establish a network system for NT-UIT university including headquarters
 Scope of work: Requirements analysis, Network system design, Deployment costs
 
 Description:
--
+
 Requirements analysis: 
 The company wants to establish a network system for NT-UIT University with the following requirements:
 -Headquarters:
