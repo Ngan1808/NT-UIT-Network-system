@@ -8,6 +8,7 @@ Description:
 
 Requirements analysis: 
 The company wants to establish a network system for NT-UIT University with the following requirements:
+
 -Headquarters:
 + Lecturers and departments have desktop computers that can access the Internet to work.
 + A server system with large storage capacity to store student data and courses.
@@ -15,6 +16,7 @@ The company wants to establish a network system for NT-UIT University with the f
 + A wifi system to authenticate students, lecturers and staff in the school.
 + A public wifi system with private Internet connection.
 + VPN support for staff and lecturers when working from home.
+  
 -District 3 Branch:
 + Distance learning department staff use desktop computers to access the school management system and the Internet to work.
 + Public wifi system with separate Internet connection for students and staff.
